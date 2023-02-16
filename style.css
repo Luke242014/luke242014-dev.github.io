@@ -1,0 +1,11 @@
+body {
+	padding: 1;
+	margin: 0;
+	font-family: "Roboto", "sans-serif";
+}
+
+border {
+	background: "#00AEFF";
+	padding: 0;
+	margin: 0;
+}
